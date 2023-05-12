@@ -1,0 +1,6 @@
+# Directories
+node_modules/
+.expo/
+
+# Files
+package-lock.json
