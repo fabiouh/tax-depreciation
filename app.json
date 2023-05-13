@@ -1,0 +1,19 @@
+{
+    "expo": {
+        "name": "Tax depreciation",
+        "slug": "tax-depreciation",
+        "version": "1.0.0",
+        "icon": "./assets/icon.png",
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/icon.png"
+            }
+        },
+        "web": {
+            "favicon": "./assets/icon.png"
+        }
+    }
+}
